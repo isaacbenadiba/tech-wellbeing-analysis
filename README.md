@@ -16,9 +16,10 @@ statistical_theory_project
 └── README.md
 
 ## Research Question
-- Does daily screen time predict mental health outcomes (stress, anxiety, depression)?  
-- Does sleep quality moderate this effect?  
-- What is the distributional nature of screen time behavior?
+Does daily screen time predict mental health outcomes (stress, anxiety, and depression), and is this association moderated by sleep quality?
+
+## Secondary Aim
+To characterize the statistical distribution of daily screen time in order to inform model selection and diagnostics.
 
 ## Methods & Statistical Tools
 - Regression with interaction term: `screen_time × sleep_quality`  
